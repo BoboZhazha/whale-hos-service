@@ -1,0 +1,2 @@
+# whale-hos-service
+使用springboot基于hdfs和HBase实现的一个海量的对象存储服务
